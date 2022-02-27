@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the Commission of Array stated.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78243</idno>
+            <idno type="STC">Wing C1043</idno>
+            <idno type="STC">Thomason E123_18</idno>
+            <idno type="STC">ESTC R2127</idno>
+            <idno type="EEBO-CITATION">99871285</idno>
+            <idno type="PROQUEST">99871285</idno>
+            <idno type="VID">123695</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78243)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 123695)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 22:E123[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the Commission of Array stated.</title>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A legal argument against the King's right to call subjects to arms by a commission of array.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "Octob: 20 1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Commissions of array --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:123695:1" rendition="simple:additions"/>
+            <head>THE CASE OF The Commiſsion of Array Stated.</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <add>Octob: 20 1642</add>
+                  </date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is a true ſaying, that a Caſe rightly put, is halfe adjudged: It ſhall therefore be neceſ<g ref="char:EOLhyphen"/>ſary to ſet down the true ſtate of that great queſtion which doth ſo much perplex mens minds about the Commiſſion of Array, whereby ſuch as are doubtfull may the better have ſatiſ<g ref="char:EOLhyphen"/>faction therein.</p>
+            <p>Firſt then it ſhall be neceſſary to take knowledge of the Originall of impoſing of Armes, and wherein latter times have varyed from that ancient courſe.</p>
+            <div type="part">
+               <head>
+                  <bibl>Forteſcue de legibus Angliae, Cap.13.</bibl>
+               </head>
+               <p>I conceive that the defence of this Realme doth pro<g ref="char:EOLhyphen"/>perly and ſolely belong unto the King, who is to protect the perſons and eſtates of all his Subjects againſt for<g ref="char:EOLhyphen"/>raigne enemies: <hi>Qui ad tutelam corporis, &amp; bonorum ere<g ref="char:EOLhyphen"/>ctus eſt:</hi> with which agreeth the Myrror of Juſtice, <hi>pa.</hi> 8. in the new print. <hi>Eſtreint de eux un Roy a regner ſur eux, &amp; governer le peuple de Dieu, &amp; à maintainer, &amp; defender les perſons, &amp; les biens en quiet, per les rules de droit.</hi> The King for his aſſiſtance herein, that he might the better
+<pb n="2" facs="tcp:123695:2"/>inable himſelfe to defend his Subjects, granted Lands to men of eminency, to be holden of him by Knights ſervice, to ſome by Eſenage, to others by Caſtle guard, and the like, as he thought ſit. Some of theſe held their Lands by one Knights ſee, ſome by two Knights fees, others by three, ſome by the fourth, ſome by the hundredth pare of a Knights ſee, according to the value and quantity of ſuch Lands he was pleaſed to confer upon him. He that thus held his Lands by one whole Knights fee, was to attend the Prince in his Warres either in perſon, or by an able man, forty dayes, well and compleatly arrayed for War. He that held his Lands by three Knights fees, was to do the like ſervice with three men. Such as held by that fourth part of one Knights fee, was to attend one day furniſhed, as aforeſaid. And he that held by more fees, more, and by Jeſſe, leſſe time, according to the proporti<g ref="char:EOLhyphen"/>on of their Tenures. By theſe Tenants the Princes Ar<g ref="char:EOLhyphen"/>my was in time of War ſurniſhed with ſouldiers for the defence of the Realme.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <bibl>Forteſcue, fol. 108.</bibl>
+               </head>
+               <p>But ſuch as held their Lands in Soccage, were not bound to warfare, they were only ſuch as held by Knights ſervice. By this we now ſee that the Kings auxi<g ref="char:EOLhyphen"/>liary helpes for defence of the Realmo, ſay ſearrered a<g ref="char:EOLhyphen"/>broad in all parts of the Kingdome, and it was a diſſicult and intricate buſineſſe, to know how many Tenants the King had, who were thus bound to aſſiſt him, and to know every Tenants proportion of Armes which he was to finde, and for what time. Therefore to facilitate this
+<pb n="3" facs="tcp:123695:2"/>buſineſſe, there was an Officer appointed in every Coun<g ref="char:EOLhyphen"/>ty, known by the name of the Feoder, who was to keepe Rolles of all ſuch as held their Lands by Knights ſervice, and by what quantity of Knights fees they were held, and to return his Rolls into the Kings Court, that ſo he might be informed how many fees he had in each Coun<g ref="char:EOLhyphen"/>ty, that ſo upon all emergent occaſions he might require their ſervices.</p>
+               <p>In former times theſe Rolles were conſtantly returned into the Exchequer, there to remaine of Record, where many of them are yet this day to be ſeene. And in for<g ref="char:EOLhyphen"/>mer times this State was ſo tender in preſerving of theſe Tenures, that in caſe any were alienated, whereby they might come into Mortmaine (without ſpeciall licence of the King) thoſe Lands ſo aliened, were forfeited unto the next ſuperiour Lord of the Fee.</p>
+               <p>When the King had occaſion to uſe his Tenants in the Warres, hee iſſued out Commiſſions to certaine men, thereby giving them power to call all ſuch his Tenants before them, and to ſee them Armed and Arrayed ac<g ref="char:EOLhyphen"/>cording to their ſeverall Tenures, by which they held their Lands. But you muſt remember, that ſuch as held not their Lands by ſuch ſervices, were not to be charged with any Armes, as appeareth by the Statutes of 1 <hi>Ed.</hi> 3. <hi>cap.</hi> 5.25. <hi>Ed.</hi> 3. <hi>cap.</hi> 8. <hi>Forteſcue de legibus Angliae, fol.</hi> 108.</p>
+               <pb n="4" facs="tcp:123695:3"/>
+               <p> Now to apply this to the caſe in hand, A Gentleman holds Lands of the King by 20. Knights Fees, and hee is bound by his Tenure to maintaine twenty men for the Kings ſervice in his Warres for forty dayes: It will be granted that he cannot performe all theſe ſervices in his owne perſon, for he cannot perſonally performe the ſer<g ref="char:EOLhyphen"/>vice but of one man. (and for his owne perſon alſo, the Law giveth him power to ſubſtitute an able man in his roome) So then the ſervices of the other nineteene men being defective in him, they muſt be ſupplyed by others at his charge, and they alſo muſt be ſuch men as hold not by the like Tenures, <hi>de ſuo proprio, i. e.</hi> in their owne right; for if they ſhould, then their owne ſervices would be defective for their owne Tenures, and the King ſhould be at a loſſe for want of their owne perſonall ſervices: for that man which doth ſerve with another mans Arms, would ſave that ſervice of his owne Lands, which hee himſelfe doth hold by the like Tenure. And this may be the reaſon wherefore the perſon ſubſtituted muſt be ſuch a one as hath not Lands <hi>de ſuo proprio.</hi> The Tenures and perſons being thus compleated by the Commiſſioners, they had power to try, drill, and exerciſe them ſo, as they might bee made fit for ſervice in defence of the King<g ref="char:EOLhyphen"/>dome.</p>
+               <p>And this is the true uſe of the Commiſſion of Array, ſo much talked of. And to conceive that thoſe Commiſſi<g ref="char:EOLhyphen"/>oners had by vertue of their Commiſſion any power to aſſeſſe Arms upon any man (other then as aforeſaid) were to give an interpretation directly againſt the Law.</p>
+            </div>
+            <div type="part">
+               <pb n="5" facs="tcp:123695:3"/>
+               <head>
+                  <bibl>Aſſ. 42. Pl. 5.7.</bibl>
+               </head>
+               <head type="sub">
+                  <bibl>Dyer fo. 175. Scrogs Caſe.</bibl>
+               </head>
+               <p>For a Commiſſion to take a man and his goods, hath been by all the Judges agreed to be illegall.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <bibl>Forteſcue de legibus, fol. 108.</bibl>
+               </head>
+               <p>And <hi>Forteſcue,</hi> who lived about the time of the ma<g ref="char:EOLhyphen"/>king of that Statute, which is extended to warrant the Commiſſion of Array now ſo much ſtood upon, and who was chiefe Juſtice in the next ſucceeding Kings raigne, ſaith, that Soccage Land is not bound to Armes, <hi>Et contemporaria expoſitio eſt optimus interpres:</hi> Out of all which premiſſes it may be concluded, that they who ſtand ſo much for the Commiſſion of Array, do not ſtate the queſtion aright, but doe herein, as they in the Caſe of Epiſcopacy; who argue only of the name, but not of the thing in queſtion. It will be granted that Commiſſi<g ref="char:EOLhyphen"/>ons of Array have been long in uſe, but not in that ſenſe thoſe men would have them to be, with a Legiſlative power in the Commiſſioners to impoſe what Armes they think fit upon the perſons and eſtates of men at their plea<g ref="char:EOLhyphen"/>ſure; for they are only to ſee that the King be not de<g ref="char:EOLhyphen"/>ceived in his Armes, nor the Common-wealth wronged for want of defence and protection by the withdrawing of any ſervices due.</p>
+               <p>It will be difficult to produce any authenticall warrant to prove that the Kings of this Realme have at any time legally exerciſed any power of impoſing of Armes by
+<pb n="6" facs="tcp:123695:4"/>their Prerogative, but what Armes they have impoſed, have been by vertue of ſome Act of Parliament (Tenures excepted) And why by Parliament, if the Kings of this Realme had by their Prerogative power to impoſe, can<g ref="char:EOLhyphen"/>not be imagined? That Armes were impoſed by Parlia<g ref="char:EOLhyphen"/>ment, may be inſtanced for many hundreds of yeares, both before and ſince the Conqueſt In <hi>Canutus</hi> his time, a Satrapas was charged with eight horſes, whereof foure were with Saddles, and foure without Saddles, foure Helmets, foure Jackets, eight Lances, eight Bucklers, foure Swords, and two hundred markes in money. The <hi>Thanus Regius</hi> was charged with halfe that proportion, but if he were but a common Thane, he was only charged with one Horſe, and Armes, and this impoſition was by Parliament.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <bibl>Lamb. Saxon Lawes, fol. 120, 135, 125.</bibl>
+               </head>
+               <p>So likewiſe were the impoſitions of King <hi>Edward</hi> the Confeſſor, and <hi>William</hi> the Conquerour by Parliament. For the times ſince the Conqueſt, it may be inſtanced in the Statutes of <hi>Weſtminſter</hi> the firſt, <hi>Anno</hi> 3. <hi>Ed.</hi> 11. <hi>ca.</hi> 7. <hi>Stat.</hi> of <hi>Wincheſter,</hi> 13. <hi>Ed.</hi> 1. <hi>Stat.</hi> 33. <hi>H.</hi> 8. <hi>cap.</hi> 5. And by 4. <hi>&amp;</hi> 5. <hi>Phil. &amp; Mar. cap.</hi> 2. All former Lawes made for impoſing of Armes were repealed, and another kinde of impoſing of Armes, <hi>viz.</hi> According to mens eſtates, either in Lands or Goods, ordained; and the ſame yeare, viz. 5. <hi>Mar. c.</hi> 3. A Statute was made whereby they were compellable at Muſters to ſhew theſe Armes, and for the Muſtering and Trayning of them: but this Statute of 5. <hi>Mar.</hi> for impoſing of Armes, being repealed, it may (and not without ſome reaſon) be conceived that the Statute
+<pb n="7" facs="tcp:123695:4"/>of 5. <hi>Mar. ca.</hi> 3. for Muſtering of them, is now alſo re<g ref="char:EOLhyphen"/>pealed, being only a ſhadow that waited upon that body. It cannot be denyed, but that the King hath had ayde of the Subject towards his Warres, as the ninth Lamb, and the ninth Fleece, for two yeares, but this was by grant of the Subject, (<hi>Stat.</hi> 14. <hi>Ed.</hi> 3. <hi>cap.</hi> 20.) not by vertue of any impoſition by Commiſſioners of Array, or by Pre<g ref="char:EOLhyphen"/>rogative; And being a gift of the Subject, it may not be produced for a Preſident, to give warrant to Commiſſi<g ref="char:EOLhyphen"/>oners to impoſe Armes by vertue of the Kings Preroga<g ref="char:EOLhyphen"/>tive, as ſome doe ſurmiſe.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
